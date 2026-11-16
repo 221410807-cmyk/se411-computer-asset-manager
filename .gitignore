@@ -1,0 +1,18 @@
+# Dependencies and build output (recreated by npm install / mvn)
+node_modules/
+dist/
+target/
+
+# Mac and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Eclipse project files (Eclipse recreates them on import)
+.project
+.classpath
+.settings/
+
+# The generated reference backend must NOT be submitted as your backend.
+# Keep it on your computer for learning; publish your own hand-written backend/ folder.
+backend-reference/
