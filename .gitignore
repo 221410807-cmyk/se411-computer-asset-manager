@@ -14,5 +14,4 @@ target/
 .settings/
 
 # The generated reference backend must NOT be submitted as your backend.
-# Keep it on your computer for learning; publish your own hand-written backend/ folder.
-backend-reference/
+# Keep it on your computer for learning; publish your own hand-written backend/ folder.#
